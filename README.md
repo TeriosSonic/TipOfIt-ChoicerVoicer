@@ -19,4 +19,4 @@ Choicer Voicer pack with collective brainrot from multiple groups
 * **Extra files you can add for clips:** If files of these extensions with the same name as the audio clip are found, they will be used ingame.
   * **`.txt`:** will show up as a caption (if not added, the clip will have no caption)
   * **`.png`:** will show up as a thumbnail for the audio, preferably in square format (if not added, the clip will use `_pack_filler_image.png`)
-* **Other types of packs:** If you want to submit mods that aren't voice pack related, you can add a link to them hosted in a different website into this readme file below. Recommended to list what it is and who made it (for example, "**[Sonic Adventure Judges](https://files.catbox.moe/1wvbu8.png)** (judge pack by Terionic)"
+* **Other types of packs:** If you want to submit mods that aren't voice pack related, you can add a link to them hosted in a different website into the [Other packs](##other-packs) section. Recommended to list what it is and who made it (for example, "**[Sonic Adventure Judges](https://files.catbox.moe/1wvbu8.png)** (judge pack by Terionic)"
