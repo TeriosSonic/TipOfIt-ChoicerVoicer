@@ -1,6 +1,11 @@
+![to the tip of it](logo.png)
 # TO THE TIP OF IT (Choicer Voicer Pack)
+Choicer Voicer pack with collective brainrot from multiple groups
 
-## Guidelines
+## Other packs:
+* none for now haha
+
+## Guidelines (for contributions)
 * **Categories:** If there are enough voice clips of a thing for it to warrant its own category, make it its own folder and have a thumbnail/name and other required files for it.
 * **Uncategorized clips:** If a clip doesn't fit any existing categories it will go in the *Miscellaneous* folder.
 * **Noise concerns:** All clips uploaded *must* be humanly replicable. If any sort of noise or background music is included, it must be removed as best as possible.
@@ -9,6 +14,3 @@
   * An alternative is [Ultimate Vocal Remover](https://ultimatevocalremover.com/), using the *Kim Vocal 1* or *Kim Vocal 2* presets.
 * **Other types of packs:** If you want to submit mods that aren't voice pack related, you can add a link to them hosted in a different website into this readme file below. Recommended to list what it is and who made it (for example, "**[Sonic Adventure Judges](https://files.catbox.moe/1wvbu8.png)** (judge pack by Terionic)"
 * **Authors:** If you contribute to the voice pack in any way, make sure to add yourself in _author.txt (there should also be one of these in each category but those will depend on the stuff directly added to them).
-
-## Other packs:
-* none for now haha
