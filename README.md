@@ -8,6 +8,7 @@
   * If you have FL Studio, its built in stem extractor is very powerful, and allows to extract vocals only from a sound.
   * An alternative is [Ultimate Vocal Remover](https://ultimatevocalremover.com/), using the *Kim Vocal 1* or *Kim Vocal 2* presets.
 * **Other types of packs:** If you want to submit mods that aren't voice pack related, you can add a link to them hosted in a different website into this readme file below. Recommended to list what it is and who made it (for example, "**[Sonic Adventure Judges](https://files.catbox.moe/1wvbu8.png)** (judge pack by Terionic)"
+* **Authors:** If you contribute to the voice pack in any way, make sure to add yourself in _author.txt (there should also be one of these in each category but those will depend on the stuff directly added to them).
 
 ## Other packs:
 * none for now haha
